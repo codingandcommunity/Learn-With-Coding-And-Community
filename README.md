@@ -1,6 +1,7 @@
 # Learn-With-Coding-And-Community
 This is a web-based application that is to be directly deployed onto the official Coding&amp;&amp;Community club website: https://codingandcommunity.org/.
 
+**README template below will be filled out as this application is developed.**
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
