@@ -1,5 +1,5 @@
 # Learn-With-Coding-And-Community
-This is a web-based application that is to be directly deployed onto the official Coding&amp;&amp;Community club [website]( https://codingandcommunity.org/).
+This is a web-based application that is to be directly deployed onto the official Coding&amp;&amp;Community club [website]( https://codingandcommunity.org/). It is to be added to the main site in the form of an additional tab on the upper toolbar with the name of this web-app. Clicking on the tab enables users to log into their Coding&&Community account (username/email & password), where they can complete curriculum, register for hackathons, and receive advice. 
 
 **README template below will be filled out as this application is developed.**
 ## Getting Started
