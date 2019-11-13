@@ -1,4 +1,4 @@
-## Important: Owner of this project has version on the development team's personal GitHub [repository](https://github.com/JessHua159/Learn-With-Coding-And-Community). This repository will be updated periodically as progress is made.
+## Important: Owner of this project has version on the development team's personal GitHub [repository](https://github.com/JessHua159/Learn-With-Coding-And-Community) for proper management. This organization repository will be updated periodically as progress is made.
 
 # Learn-With-Coding-And-Community
 This is a web-based application that is to be directly deployed onto the official Coding&amp;&amp;Community club [website]( https://codingandcommunity.org/). It is to be added to the main site in the form of an additional tab on the upper toolbar with the name of this web-app. Clicking on the tab enables users to log into their Coding&&Community account (username/email & password), where they can complete curriculum, register for hackathons, and receive advice. 
