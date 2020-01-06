@@ -70,7 +70,7 @@ Give an example
 
 ## Deployment
 
-Add additional notes about how to deploy this on a live system
+Add additional notes about how to deploy this on a live system, TBA.
 
 ## Built With
 * AMP Stack - Web server stack (for Moodle)
@@ -93,7 +93,7 @@ We use [Git](https://git-scm.com/) for source control.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/JessHua159/Learn-With-Coding-And-Community/blob/master/LICENSE) file for details.
 
 ## Acknowledgments
 * Inspiration
