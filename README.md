@@ -1,5 +1,5 @@
 # Learn-With-Coding-And-Community
-This is a web-based application that is to be directly deployed onto the official coding&amp;&amp;community club [website]( https://codingandcommunity.org/) as an additional learning feature. It is to be added to the main site in the form of an additional tab on the upper toolbar with the name of this web-app. Clicking on the tab enables users to log into their Coding&&Community account (username/email & password) onto a separate website where they can complete curriculum, register for hackathons, and receive advice. The application employs [Moodle](https://moodle.org/), an open source learning platform (under the GPL license) as a means of delivering coding&&community's educational content.
+This is a web-based application that is to be directly deployed onto the official coding&amp;&amp;community club [website]( https://codingandcommunity.org/) as an additional learning feature in the form of a tab on the upper website toolbar. Clicking on the tab enables users to log into their coding&&community account (username/email & password) onto a separate website where they can complete curriculum, register for hackathons, and receive advice. The application employs [Moodle](https://moodle.org/), an open source learning platform (under the GPL license) as a means of delivering coding&&community's educational content.
 
 **README template below will be filled out as this application is developed.**
 ## Getting Started
@@ -17,6 +17,7 @@ Give examples
 ```
 
 ### Installing
+Just install this repo's Moodle distribution if you are only interested in the learning content specifically. If you want to see everything, from the coding&&community user account login to the curriculum, hackathon registration, and advice, install everything listed below.
 
 **Moodle:**
 
