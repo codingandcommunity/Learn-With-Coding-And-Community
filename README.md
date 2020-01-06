@@ -10,7 +10,7 @@ Follow these instructions to get a copy of this web application working on your 
 * Performance prerequisites TBA.
 * **Web server stack (Apache, MySql, and PHP)** depending on OS and preferences: ([WAMP](http://ampps.com/wamp), [XAMPP](https://www.apachefriends.org/index.html), [MAMP](https://www.mamp.info/en/), [LAMP](https://phoenixnap.com/kb/how-to-install-lamp-stack-on-ubuntu))
 * Recommended to have **phpmyadmin** working on stack. 
-Note: If you have Linux and are going with LAMP,  **phpmyadmin** is not automatically included when you install all stack components. Follow instructions [here](https://www.ostechnix.com/install-phpmyadmin-with-lamp-stack-on-ubuntu-16-04/) to get **phpmyadmin** installed.
+Note: If you have Linux and are going with LAMP,  **phpmyadmin** is not automatically included when you install all stack components. Follow instructions [here](https://www.ostechnix.com/install-phpmyadmin-with-lamp-stack-on-ubuntu-16-04/) to get **phpmyadmin** installed on LAMP.
 
 ```
 Give examples
