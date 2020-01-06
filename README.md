@@ -33,7 +33,7 @@ Just install this repo's Moodle distribution if you are only interested in the l
 
   **6.** Create a Moodle account and log into it to see the distribution of Moodle in its latest edition for coding&&community. 
   
-If you would like to contribute educational content to the Moodle distribution, contact the **administrator** (jesseweihuang@gmail.com or on the coding&&community Slack). If you are a Developer, simply ask in the #general thread on the *coding&&community Web App Dev* Discord server for administrator access.
+If you would like to contribute educational content to the Moodle distribution, contact the **administrator** (jesseweihuang@gmail.com or on the coding&&community Slack). If you are a developer, simply ask in the #general thread on the *coding&&community Web App Dev* Discord server for administrator access.
 
 ```
 Give the example
