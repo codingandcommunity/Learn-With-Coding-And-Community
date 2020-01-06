@@ -18,14 +18,19 @@ Give examples
 
 ### Installing
 **Moodle:**
- **1.** Clone/download the *moodle* and *moodledata* folders from the moodle branch on this repo into a separate folder on your machine (recommended to put on your Desktop folder).
-**2.** Make a copy of the *moodle* and *moodledata* folders. Move the *moodle* folder into the designated localhost directory of the web server stack you are using (ex. into */var/www/html/* if you are using LAMP). Move the *moodledata* folder into the root localhost directory folder (ex. into */var/www/* if you are using LAMP).
-**3.** Using **phpmyadmin**, create a database named *moodle_codingandcommunity*. Make sure that you name the database correctly with the right spelling or else Moodle will be unable to connect to your web server database. It is recommended you log into **phpmyadmin** with a custom account separate from *root*.
-**4.** Open up localhost on your favorite browser. Navigate to the *moodle* folder. 
-**5.** If this is your first time doing so, you may have to run through an installation process. When you reach the server checks page, you may need to install additional PHP packages for Moodle to function properly. If you have trouble passing the server checks even after following the suggested instructions, try using another web server stack. (for ex., if it does not work on WAMP, try using LAMP instead). Click [here](https://docs.moodle.org/38/en/Installation_quick_guide#Install_Moodle) for more information about installing Moodle.
-**6.** Log into Moodle with administrator account credentials. Ask the **administrator** for more information. 
+  **1.** Clone/download the *moodle* and *moodledata* folders from the moodle branch on this repo into a separate folder on your machine (recommended to put on your Desktop folder).
+ 
+  **2.** Make a copy of the *moodle* and *moodledata* folders. Move the *moodle* folder into the designated localhost directory of the web server stack you are using (ex. into */var/www/html/* if you are using LAMP). Move the *moodledata* folder into the root localhost directory folder (ex. into */var/www/* if you are using LAMP).
 
-Now that you have successfully installed the distribution of Moodle from this repo, you should see the latest edition of the Moodle platform for coding&&community. 
+  **3.** Using **phpmyadmin**, create a database named *moodle_codingandcommunity*. Make sure that you name the database correctly with the right spelling or else Moodle will be unable to connect to your web server database. It is recommended you log into **phpmyadmin** with a custom account separate from *root*.
+
+  **4.** Open up localhost on your favorite browser. Navigate to the *moodle* folder. 
+
+  **5.** If this is your first time doing so, you may have to run through an installation process. When you reach the server checks page, you may need to install additional PHP packages for Moodle to function properly. If you have trouble passing the server checks even after following the suggested instructions, try using another web server stack. (for ex., if it does not work on WAMP, try using LAMP instead). Click [here](https://docs.moodle.org/38/en/Installation_quick_guide#Install_Moodle) for more information about installing Moodle.
+
+  **6.** Create a Moodle account and log into it to see the distribution of Moodle in its latest edition for coding&&community. 
+  
+If you would like to contribute educational content to the Moodle distribution, contact the **administrator** (jesseweihuang@gmail.com or on the coding&&community Slack). If you are a Developer, simply ask in the #general thread on the *coding&&community Web App Dev* Discord server for administrator access.
 
 ```
 Give the example
