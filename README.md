@@ -17,7 +17,9 @@ Give examples
 ```
 
 ### Installing
+
 **Moodle:**
+
   **1.** Clone/download the *moodle* and *moodledata* folders from the moodle branch on this repo into a separate folder on your machine (recommended to put on your Desktop folder).
  
   **2.** Make a copy of the *moodle* and *moodledata* folders. Move the *moodle* folder into the designated localhost directory of the web server stack you are using (ex. into */var/www/html/* if you are using LAMP). Move the *moodledata* folder into the root localhost directory folder (ex. into */var/www/* if you are using LAMP).
@@ -71,30 +73,28 @@ Give an example
 Add additional notes about how to deploy this on a live system
 
 ## Built With
+* AMP Stack - Web server stack (for Moodle)
+* [Moodle](https://moodle.org/) - Open sourced learning platform for delivering the educational and user account content
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+## Source Control
 
-## Contributing
+We use [Git](https://git-scm.com/) for source control. 
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+## Content Creators
 
-## Versioning
+* TBA 
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+## Developers
 
-## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+* [Jesse Huang](https://github.com/JessHua159)
+* [Omar Cobas](https://github.com/omarASC5)
+* [Gavin Song](https://github.com/Gavin-Song)
+* [Yash Mistri](https://github.com/yashmistri)
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Acknowledgments
-**Developers**: Jesse Huang, Omar Cobas, Gavin Song, Yash Mistri
 * Inspiration
 * etc
