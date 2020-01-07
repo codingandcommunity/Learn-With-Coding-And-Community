@@ -89,8 +89,6 @@ We use [Git](https://git-scm.com/) for source control.
 
 * [Jesse Huang](https://github.com/JessHua159)
 * [Omar Cobas](https://github.com/omarASC5)
-* [Gavin Song](https://github.com/Gavin-Song)
-* [Yash Mistri](https://github.com/yashmistri)
 
 ## License
 
