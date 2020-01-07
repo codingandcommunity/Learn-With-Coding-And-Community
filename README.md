@@ -17,7 +17,7 @@ Give examples
 ```
 
 ### Installing
-Just install this repo's Moodle distribution if you are only interested in the learning content specifically. If you want to see everything, from the coding&&community user account login to the curriculum, hackathon registration, and advice, install everything listed below.
+Just install this repo's **Moodle** distribution if you are only interested in the learning content specifically. If you want to see everything, from the coding&&community user account login to the curriculum, hackathon registration, and advice, install everything listed below.
 
 **Moodle:**
 
