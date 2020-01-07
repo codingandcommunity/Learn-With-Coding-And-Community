@@ -1,0 +1,6 @@
+s:276:"<p>You can search for multiple words at once and can refine your search as follows:</p>
+
+<ul><li>word - find any match of this word within the text</li>
+<li>+word - only exact matching words will be found</li>
+<li>-word - don't include results containing this word.</li>
+</ul>";
