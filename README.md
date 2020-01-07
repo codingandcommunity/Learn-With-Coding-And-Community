@@ -23,7 +23,7 @@ Just install this repo's Moodle distribution if you are only interested in the l
 
   **1.** Clone/download the *moodle* and *moodledata* folders from the moodle branch on this repo into a separate folder on your machine (recommended to put on your Desktop folder).
  
-  **2.** Make a copy of the *moodle* and *moodledata* folders. Move the *moodle* folder into the designated localhost directory of the web server stack you are using (ex. into */var/www/html/* if you are using LAMP). Move the *moodledata* folder into the root localhost directory folder (ex. into */var/www/* if you are using LAMP).
+  **2.** Make a copy of the *moodle* and *moodledata* folders. Move the copied *moodle* folder into the designated localhost directory of the web server stack you are using (ex. into */var/www/html/* if you are using LAMP). Move the copied *moodledata* folder into the root localhost directory folder (ex. into */var/www/* if you are using LAMP).
 
   **3.** Using **phpmyadmin**, create a database named *moodle_codingandcommunity*. Make sure that you name the database correctly with the right spelling or else Moodle will be unable to connect to your web server database. It is recommended you log into **phpmyadmin** with a custom account separate from *root*.
 
