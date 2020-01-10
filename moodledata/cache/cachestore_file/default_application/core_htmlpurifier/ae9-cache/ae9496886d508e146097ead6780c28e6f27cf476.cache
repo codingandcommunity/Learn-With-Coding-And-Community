@@ -1,0 +1,9 @@
+s:734:"<p>This setting, together with the URL file type and whether the browser allows embedding, determines how the URL is displayed. Options may include:</p>
+
+<ul><li>Automatic - The best display option for the URL is selected automatically</li>
+<li>Embed - The URL is displayed within the page below the navigation bar together with the URL description and any blocks</li>
+<li>Open - Only the URL is displayed in the browser window</li>
+<li>In pop-up - The URL is displayed in a new browser window without menus or an address bar</li>
+<li>In frame - The URL is displayed within a frame below the navigation bar and URL description</li>
+<li>New window - The URL is displayed in a new browser window with menus and an address bar</li>
+</ul>";
