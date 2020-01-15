@@ -1,7 +1,11 @@
 ## Important: Owner of this project has version on the development team's personal GitHub repository for proper management. This organization repository will be updated periodically when appropriate.
 
 # Learn-With-Coding-And-Community
-This is a web-based application that is to be directly deployed onto the official coding&amp;&amp;community club [website]( https://codingandcommunity.org/) as an additional learning feature in the form of a tab on the upper website toolbar. Clicking on the tab enables users to log into their coding&&community account (username/email & password) onto a separate website where they can complete curriculum, register for hackathons, and receive advice. The application employs [Moodle](https://moodle.org/), an open source learning platform (under the GPL license) as a means of delivering coding&&community's educational content.
+This is a web-based application that is to be directly deployed onto the official coding&amp;&amp;community club [website]( https://codingandcommunity.org/) as an additional learning feature in the form of a tab on the upper website toolbar. 
+
+Clicking on the tab enables users to log into their coding&&community account (username/email & password) onto a separate website where they can complete curriculum, register for hackathons, and receive advice. The application employs [Moodle](https://moodle.org/), an open source learning platform (under the GPL license) as a means of delivering coding&&community's educational content.
+
+For coding&&community curriculum creators, we plan that once we have a working user account system on the front-end website that connects to the Moodle learning platform, you will be able to contribute educational content as a Teacher. If would like to see how the learning platform looks right now and get a feel for how you may be publishing content on Moodle, follow the **installation** instructions to get a working copy on your local machine.
 
 **README template below will be filled out as this application is developed.**
 ## Getting Started
@@ -34,8 +38,6 @@ Just install this repo's **Moodle** distribution if you are only interested in t
   **5.** If this is your first time doing so, you may have to run through an installation process. When you reach the server checks page, you may need to install additional PHP packages for Moodle to function properly. If you have trouble passing the server checks even after following the suggested instructions, try using another web server stack. (for ex., if it does not work on WAMP, try using LAMP instead). Click [here](https://docs.moodle.org/38/en/Installation_quick_guide#Install_Moodle) for more information about installing Moodle.
 
   **6.** Create a Moodle account and log into it to see the distribution of Moodle in its latest edition for coding&&community. 
-  
-If you would like to contribute educational content to the Moodle distribution, contact the **administrator** (jesseweihuang@gmail.com or on the coding&&community Slack). If you are a developer, simply ask in the #general thread on the *coding&&community Web App Dev* Discord server for administrator access.
 
 ```
 Give the example
