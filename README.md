@@ -5,7 +5,7 @@ This is a web-based application that is to be directly deployed onto the officia
 
 Clicking on the tab enables users to log into their coding&&community account (username/email & password) onto a separate website where they can complete curriculum, register for hackathons, and receive advice. The application employs [Moodle](https://moodle.org/), an open source learning platform (under the GPL license) as a means of delivering coding&&community's educational content.
 
-For coding&&community curriculum creators, we plan that once we have a working user account system on the front-end website that connects to the Moodle learning platform, you will be able to contribute educational content as a Teacher. If would like to see how the learning platform looks right now and get a feel for how you may be publishing content on Moodle, follow the **installation** instructions to get a working copy on your local machine.
+For coding&&community curriculum creators, we plan that once we have a working user account system on the front-end website that connects to the Moodle learning platform, you will be able to contribute educational content as a Course Creator or Teacher. If would like to see how the learning platform looks right now and get a feel for how you may be publishing content on Moodle, follow the **installation** instructions to get a working copy on your local machine.
 
 **README template below will be filled out as this application is developed.**
 ## Getting Started
