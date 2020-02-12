@@ -1,0 +1,9 @@
+s:644:"<p>The aggregate type defines how ratings are combined to form the final grade in the gradebook.</p>
+
+<ul><li>Average of ratings - The mean of all ratings</li>
+<li>Count of ratings - The number of rated items becomes the final grade. Note that the total cannot exceed the maximum grade for the activity.</li>
+<li>Maximum - The highest rating becomes the final grade</li>
+<li>Minimum - The smallest rating becomes the final grade</li>
+<li>Sum - All ratings are added together. Note that the total cannot exceed the maximum grade for the activity.</li>
+</ul><p>If "No ratings" is selected, then the activity will not appear in the gradebook.</p>
+";

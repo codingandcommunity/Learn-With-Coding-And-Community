@@ -1,103 +1,41 @@
-## Important: Owner of this project has version on the development team's personal GitHub repository for proper management. This organization repository will be updated periodically when appropriate.
-
 # Learn-With-Coding-And-Community
-This is a web-based application that is to be directly deployed onto the official coding&amp;&amp;community club [website]( https://codingandcommunity.org/) as an additional learning feature in the form of a tab on the upper website toolbar. 
+An approved PITCCH project idea, Learn With coding&&community is a web-based application that will be integrated to the official club [website](https://codingandcommunity.org/) as an additional feature, created with the intent to spread and improve the accessibility of the club's Computer Science education.
 
-Clicking on the tab enables users to log into their coding&&community account (username/email & password) onto a separate website where they can complete curriculum, register for hackathons, and receive advice. The application employs [Moodle](https://moodle.org/), an open source learning platform (under the GPL license) as a means of delivering coding&&community's educational content.
+Users can create and then log into their coding&&community account (username/email & password) to access our website where they can complete curriculum, register for hackathons, and receive college and career advice. The application employs [Moodle](https://moodle.org/), an open source learning platform (under the [GPL license](https://docs.moodle.org/dev/License)) as a means of delivering coding&&community's educational content and allowing curriculum creators to conveniently post and update coding lessons and courses.
 
-For coding&&community curriculum creators, we plan that once we have a working user account system on the front-end website that connects to the Moodle learning platform, you will be able to contribute educational content as a Course Creator or Teacher. If would like to see how the learning platform looks right now and get a feel for how you may be publishing content on Moodle, follow the **installation** instructions to get a working copy on your local machine.
+## Built With
+* AMP Stack - Web server stack (for Moodle), which stands for Apache, MySql, and PHP)
+* [Moodle](https://moodle.org/) - Open sourced learning platform for delivering the educational and user account content
+* More to come
 
-**README template below will be filled out as this application is developed.**
-## Getting Started
+## Deployment
+We plan to use the same hosting service that coding&&community uses for their main website for deployment. **Please be mindful that no stable version of this application exists yet.**
 
-Follow these instructions to get a copy of this web application working on your local machine (most notably, localhost). See deployment for notes on how to deploy the project on a live system.
+# Local Copy/Installation
+**If you would like to get a copy of this web application at its current state on your local machine, follow the instructions below. Bear in mind that there has not been a stable release yet, so this process is not by any means perfect.**
 
 ### Prerequisites
-* Performance prerequisites TBA.
 * **Web server stack (Apache, MySql, and PHP)** depending on OS and preferences: ([WAMP](http://ampps.com/wamp), [XAMPP](https://www.apachefriends.org/index.html), [MAMP](https://www.mamp.info/en/), [LAMP](https://phoenixnap.com/kb/how-to-install-lamp-stack-on-ubuntu))
 * Recommended to have **phpmyadmin** working on stack. 
 Note: If you have Linux and are going with LAMP,  **phpmyadmin** is not automatically included when you install all stack components. Follow instructions [here](https://www.ostechnix.com/install-phpmyadmin-with-lamp-stack-on-ubuntu-16-04/) to get **phpmyadmin** installed on LAMP.
 
-```
-Give examples
-```
-
 ### Installing
-Just install this repo's **Moodle** distribution if you are only interested in the learning content specifically. If you want to see everything, from the coding&&community user account login to the curriculum, hackathon registration, and advice, install everything listed below.
+Just install this repo's **Moodle** distribution if you are only interested in the learning content specifically. If you want to see everything, from the coding&&community user account login to the curriculum, hackathon registration, and advice, install everything listed below (*additional instructions will be posted as those features are added*).
 
 **Moodle:**
 
   **1.** Clone/download the *moodle* and *moodledata* folders from the moodle branch on this repo into a separate folder on your machine (recommended to put on your Desktop folder).
  
-  **2.** Make a copy of the *moodle* and *moodledata* folders. Move the copied *moodle* folder into the designated localhost directory of the web server stack you are using (ex. into */var/www/html/* if you are using LAMP). Move the copied *moodledata* folder into the root localhost directory folder (ex. into */var/www/* if you are using LAMP).
+  **2.** Copy the *moodle* folder into the designated localhost directory of the web server stack you are using (ex. into `/var/www/html/` if you are using LAMP). Copy the *moodledata* folder into the root localhost directory folder (ex. into `/var/www/` if you are using LAMP).
 
-  **3.** Using **phpmyadmin**, create a database named *moodle_codingandcommunity*. Make sure that you name the database correctly with the right spelling or else Moodle will be unable to connect to your web server database. It is recommended you log into **phpmyadmin** with a custom account separate from *root*.
+  **3.** Open up localhost on your favorite browser. Navigate to the *moodle* folder. 
 
-  **4.** Open up localhost on your favorite browser. Navigate to the *moodle* folder. 
+  **4.** If this is your first time doing the installation, you may have to run through Moodle's own installation process. When you reach the server checks page, you may need to install additional PHP packages and uncommenting the respective "includes" `;extension=<php-package>` (";" is a comment) in the php.ini config file for Moodle to function properly. If you still have trouble passing the server checks, try using another web server stack. (for ex., if it does not work on WAMP, try using LAMP instead). Click [here](https://docs.moodle.org/38/en/Installation_quick_guide#Install_Moodle) for more information on installing Moodle if you need help.
 
-  **5.** If this is your first time doing so, you may have to run through an installation process. When you reach the server checks page, you may need to install additional PHP packages for Moodle to function properly. If you have trouble passing the server checks even after following the suggested instructions, try using another web server stack. (for ex., if it does not work on WAMP, try using LAMP instead). Click [here](https://docs.moodle.org/38/en/Installation_quick_guide#Install_Moodle) for more information about installing Moodle.
-
-  **6.** Create a Moodle account and log into it to see the distribution of Moodle in its latest edition for coding&&community. 
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-for each step if necessary.
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system, TBA.
-
-## Built With
-* AMP Stack - Web server stack (for Moodle)
-* [Moodle](https://moodle.org/) - Open sourced learning platform for delivering the educational and user account content
-
-## Source Control
-
-We use [Git](https://git-scm.com/) for source control. 
-
-## Content Creators
-
-* TBA 
-
-## Developers
-
-* [Jesse Huang](https://github.com/JessHua159)
-* [Omar Cobas](https://github.com/omarASC5)
+  **5.** Create a Moodle account (if you have not already done so) and log into it to see the distribution of Moodle in its latest edition for coding&&community. Recommend you avoid creating the account as an administrator - that's reserved for the developers.
+  
+  **6.** Log onto **phpmyadmin** (custom account separate from *root* recommended for security reasons, click [here](https://webmasters.stackexchange.com/questions/2242/how-to-create-separate-users-in-phpmyadmin-each-one-cant-see-others-databases) for more info), and verify that a database named *moodle_codingandcommunity* has been created. If not, then run through Moodle's installation process again. Before submitting database information to the installation, on **phpmyadmin**, create a database named *moodle_codingandcommunity* and input that into the respective field in the Moodle installation. Make sure that you name the database correctly with the right spelling or else Moodle will not work properly.
 
 ## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/JessHua159/Learn-With-Coding-And-Community/blob/master/LICENSE) file for details.
-
-## Acknowledgments
-* Inspiration
-* etc
+* This GitHub Repo: [MIT License](https://github.com/JessHua159/Learn-With-Coding-And-Community/blob/master/LICENSE)
+* Moodle: [GPL License](https://docs.moodle.org/dev/License)
