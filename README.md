@@ -4,7 +4,7 @@ An approved PITCCH project idea, Learn With Coding&&Community is a web-based app
 Users can create and then log into their Coding&&Community account (username/email & password) to access our website where they can complete curriculum, register for hackathons, and receive college and career advice. The application employs [Moodle](https://moodle.org/), an open source learning platform (under the [GPL license](https://docs.moodle.org/dev/License)) as a means of delivering Coding&&Community's educational content and allowing curriculum creators to conveniently post and update coding lessons and courses.
 
 ## Curriculum Platform - Moodle
-![moodle_integration_to_learnwithcoding&&community_early_stage](https://github.com/JessHua159/Learn-With-Coding-And-Community/blob/master/all_assets/info/moodle_integration_to_learnwithcoding%26%26community_early_stage.PNG)
+![moodle_integration_to_learnwithcoding&&community_early_stage](https://github.com/JessHua159/Learn-With-Coding-And-Community/blob/master/all_other_assets/info/moodle_integration_to_learnwithcoding%26%26community_early_stage.PNG)
 
 ## Built With
 * AMP Stack - Web server stack (for Moodle), which stands for Apache, MySql, and PHP)
